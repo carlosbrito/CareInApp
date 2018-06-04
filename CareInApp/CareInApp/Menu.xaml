@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CareInApp.Menu"
+             Title="Care In Title Menu"
+             xmlns:pages="clr-namespace:CareInApp">
+
+
+    <StackLayout VerticalOptions="StartAndExpand" >
+        <Image Source="topo.png" VerticalOptions="StartAndExpand" Aspect="AspectFill"></Image>
+
+        <StackLayout Padding="10">
+
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start" Margin="20gd"></Label>
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
