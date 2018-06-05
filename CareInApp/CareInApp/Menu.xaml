@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CareInApp.Menu"
              Title="Care In Title Menu"
-             xmlns:pages="clr-namespace:CareInApp">
+             xmlns:pages="clr-namespace:CareInApp"
+             BackgroundColor="AliceBlue">
 
 
     <StackLayout VerticalOptions="StartAndExpand" >
@@ -11,11 +12,10 @@
 
         <StackLayout Padding="10">
 
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
+            <Label TextColor="DimGray" FontSize="20" Text="Notificações"></Label>
+            <Label TextColor="DimGray" FontSize="20" Text="Notificações"></Label>
+            <Label TextColor="DimGray" FontSize="20" Text="Notificações"></Label>
+            <Label TextColor="DimGray" FontSize="20" Text="Notificações"></Label>
         </StackLayout>
     </StackLayout>
 
