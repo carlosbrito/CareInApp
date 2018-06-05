@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.Android\\CareInApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.Android\\CareInApp.Android.csproj",
       "projectName": "CareInApp.Android",
-      "projectPath": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.Android\\CareInApp.Android.csproj",
+      "projectPath": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.Android\\CareInApp.Android.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

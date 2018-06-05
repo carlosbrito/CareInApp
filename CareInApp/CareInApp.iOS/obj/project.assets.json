@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.iOS\\CareInApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.iOS\\CareInApp.iOS.csproj",
       "projectName": "CareInApp.iOS",
-      "projectPath": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.iOS\\CareInApp.iOS.csproj",
+      "projectPath": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.iOS\\CareInApp.iOS.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\carlo\\source\\repos\\CareInApp\\CareInApp\\CareInApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\carlo\\Documents\\Projects\\Fiap\\CareInApp\\CareInApp\\CareInApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

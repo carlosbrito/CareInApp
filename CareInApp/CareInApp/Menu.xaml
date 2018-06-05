@@ -11,7 +11,7 @@
 
         <StackLayout Padding="10">
 
-            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start" Margin="20gd"></Label>
+            <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
             <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
             <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
             <Label Text="Notificações" VerticalOptions="Start" VerticalTextAlignment="Start"></Label>
