@@ -1,0 +1,6 @@
+namespace CareIn.Platform.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
